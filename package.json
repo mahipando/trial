@@ -1,0 +1,14 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "pando fba intern playground",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahi Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.22.2"
+  }
+}
